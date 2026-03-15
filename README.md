@@ -1,7 +1,6 @@
 # Hotel-management-SaaS
 
-This is a code bundle for Hotel Management. The original project is available at
-https://www.figma.com/design/HrISugZ7PNaC7xz3ssiBQT/Hotel-Management.
+This is a code bundle for Hotel Management.
 
 ## Running the code
 
